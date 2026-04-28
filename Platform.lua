@@ -2,7 +2,7 @@
 if getgenv().CrystalLevPlatform then return end
 getgenv().CrystalLevPlatform = {}
 
-local BASE = "https://raw.githubusercontent.com/ТВОЙ_НИК/CrystalLev/main/"
+local BASE = "https://raw.githubusercontent.com/XyiBobra5242/crystalev/main/"
 
 local function loadModule(path)
     local s, r = pcall(function()
